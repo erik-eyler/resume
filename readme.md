@@ -1,0 +1,1 @@
+Created a quick npm package to print out my 'resume'
